@@ -13,8 +13,6 @@ export default class TileMap {
 
     //1 - wall
     //0- dots
-    //2- pacman
-    //3- enemies
 map = [
     [1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,],
     [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,],
